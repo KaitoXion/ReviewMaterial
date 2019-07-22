@@ -1,0 +1,25 @@
+Todays Agenda:
+Read Documentation in detail;
+1. Bootstrap  (to understand the symbol key used for this plug-in (e.g @,$), so that I can better understand when reading the code.
+2. Bootstrap-vue
+3. Snotify
+4. Axios
+5. vue-loading-overlay
+6. vue-router
+7. difference between component and plug-in in vue.js
+(https://medium.com/@victorlucss/component-vs-mixins-vs-plugins-in-vue-js-6a8bce29d6ec)
+
+1. vue.js
+2. axios
+
+~~~
+
+May read;
+1. vue-session
+
+2. Local Storage,  Session Storage
+https://developers.google.com/web/fundamentals/instant-and-offline/web-storage/
+
+~~~~~~~~~~~
+Additional non related info:
+(for android/IOS) flutter    : dart language

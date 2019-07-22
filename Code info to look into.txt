@@ -1,0 +1,37 @@
+Code Info:
+1. session storage
+
+~~~~
+Starting out learning location:
+1. Vue.js 2.0 In 60 Minutes
+https://www.youtube.com/watch?v=z6hQqgvGI4Y&feature=share
+
+(The update version)
+2. Vue JS Crash Course - 2019   
+https://www.youtube.com/watch?v=Wy9q22isx3U
+
+~~~
+Note: Javascript CSS file, import directly cannot use in Vue.js. As Vue.js is just technically another type of javascript.
+Must Import
+
+
+~~~~
+Command to know:
+npm install (to install the transfered project to another computer, with Node.js DB already pre-installed )
+
+~~~~`
+Question: 24/5/2019
+At:~>
+1. App.vue 
+
+~~~~~
+When sharing or transfering a project (VUe.js);
+aside from dist & node_modules - NO NEED to transfer. 
+All the other is needed.
+
+After transfered to a new PC, CMD> NPM INSTALL. -> "Done"
+~~~~~
+Lotto-Admin;
+system01
+makeitsystem
+
